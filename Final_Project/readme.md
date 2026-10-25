@@ -28,7 +28,7 @@ The company operates on a complex logistics model involving multiple ODMs, shipp
 
 ### Key Metrics Defined
 
-* **In-Transit Lead Time**: Warehouse Receipt Date ODM Ship Date
+* **In-Transit Lead Time**: Warehouse Receipt Date - ODM Ship Date
 * **Manufacturing Lead Time**: ODM Ship Date - PO Download Date
 * **Logistics Lead Time**: Warehouse Receipt Date - PO Download Date
 
