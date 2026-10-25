@@ -28,9 +28,9 @@ The company operates on a complex logistics model involving multiple ODMs, shipp
 
 ### Key Metrics Defined
 
-* **In-Transit Lead Time**: $ \text{Warehouse Receipt Date} - \text{ODM Ship Date} $
-* **Manufacturing Lead Time**: $ \text{ODM Ship Date} - \text{PO Download Date} $
-* **Logistics Lead Time**: $ \text{Warehouse Receipt Date} - \text{PO Download Date} $
+* **In-Transit Lead Time**: Warehouse Receipt Date ODM Ship Date
+* **Manufacturing Lead Time**: ODM Ship Date - PO Download Date
+* **Logistics Lead Time**: Warehouse Receipt Date - PO Download Date
 
 ### Transport Modes
 Logistics carriers utilize four distinct transport modes to move goods from sites to regional warehouses:
